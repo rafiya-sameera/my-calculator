@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="app">
       <div className="calculator">
-        <h1>My Calculator</h1>
+        <h1>Calculator ♡</h1>
 
         <input
           className="display"
